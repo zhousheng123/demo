@@ -1,7 +1,8 @@
 <template>
 <div class="video">
-  <video  class="video-page" controls="controls" src="../../assets/video/一拳C人-12.mp4">
-  </video>
+  这里展示视频
+  <!--<video  class="video-page" controls="controls" src="../../assets/video/一拳C人-12.mp4">-->
+  <!--</video>-->
 </div>
 </template>
 
