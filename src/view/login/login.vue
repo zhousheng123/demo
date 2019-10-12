@@ -5,7 +5,7 @@
   <!--</clogin>-->
 
     <div class="login-container">
-      <img class="back-img" src="../../assets/img/login/back.png">
+      <!--<img class="back-img" src="../../assets/img/login/back.png">-->
       <el-form
         :model="loginForm" ref="loginForm" :rules="loginRules"
         autoComplete="on" label-position="left" class="login-form">
